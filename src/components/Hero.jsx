@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="relative h-full flex flex-col items-center justify-center text-white z-10">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-8 drop-shadow-lg">
-            वडाळीभोई ग्रामपंचायत
+            ग्रामपंचायत बहादूरी
           </h1>
           <div className="space-y-4 max-w-4xl mx-auto">
             <div>
